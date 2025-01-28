@@ -2,7 +2,7 @@
 bootstrap:
 	flux bootstrap github \
 		--token-auth=false \
-		--owner=sidpalas \
+		--owner=aneesravidkhan \
 		--repository=akamai-gitops-demo \
 		--branch=main \
 		--path=clusters/gitops-demo \
